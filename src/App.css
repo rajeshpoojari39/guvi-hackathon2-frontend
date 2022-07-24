@@ -24,6 +24,41 @@
   color: white;
 }
 
+.addForm {
+  width: 300px;
+  margin: 20px auto 0 auto;
+}
+
+.theaterCard {
+  margin-top: 40px;
+}
+
+.movieList {
+  margin-top: 30px;
+  display: flex;
+  gap: 50px;
+}
+
+.cardImage {
+  object-fit: "contain";
+  border-radius: 55;
+  height: 350px;
+}
+
+.bookingMovieHeading {
+  width: 500px;
+  margin: 30px auto 20px auto;
+}
+
+.seats {
+  width: 800px;
+  margin: 10px auto;
+}
+
+.seats svg:hover {
+  cursor: pointer;
+}
+
 .App-link {
   color: #61dafb;
 }
