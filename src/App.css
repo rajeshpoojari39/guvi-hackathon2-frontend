@@ -59,6 +59,13 @@
   cursor: pointer;
 }
 
+.eleventhRow {
+  display: flex;
+  gap: 20px;
+  width: 700px;
+  margin-top: 30px;
+}
+
 .App-link {
   color: #61dafb;
 }
